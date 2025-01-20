@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/KAnejjar/KdAnejjar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KAnejjar/KdAnejjar/blob/main/github-contribution-grid-snake.svg)
 # KdAnejjar
 Config files for my github profile
 <h1 align="center">Hi 👋, I'm kd</h1>
